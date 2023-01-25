@@ -1,0 +1,8 @@
+isort
+flake8
+flake8-annotations
+flake8-docstrings
+pytest
+coverage
+black
+pg8000
